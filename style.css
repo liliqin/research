@@ -1,0 +1,117 @@
+body {
+    background:#e2e2e4 url(images/bg.jpg) repeat fixed top left;
+    font-family:"Arial", "helvetica", "sans-serif";
+	color:#444;
+    text-align:center;
+}
+img {
+    border:none;
+}
+a {
+    color: blue;
+    text-decoration: none;
+}
+a:visited {
+    color: purple;
+    text-decoration: none;
+}
+a:hover, a:active {
+    color: red;
+    text-decoration: underline;
+}
+p, ul, ol, table {
+    margin:10px 0;
+    line-height:1.5;
+}
+ul, ol {
+    padding-left:25px;
+}
+ul li, ol li {
+	margin-bottom:5px;
+}
+h1, h2, h3, h4 {
+    margin: 5px 0;
+}
+div.clear {
+    height:0;
+    clear:both;
+}
+
+#container {
+    width: 630px; /*630+15*2 = 660*/
+    margin: 0 auto;
+	padding: 15px 15px 30px 15px;
+	background-color:#fff;
+}
+
+#header {
+	border-bottom:1px solid #ccc3a6;
+}
+#header #menu {
+	padding-bottom:20px;
+	border-bottom:1px solid #ccc3a6;
+}
+#header #menu ul {
+	margin:0;
+	padding:0;
+}
+#header #menu ul li {
+	margin:0;
+	padding:0 10px;
+	display:inline;
+}
+
+#header #menu ul li a,
+#header #menu ul li a:visited {
+    color: #888;
+    text-decoration: none;
+}
+
+#header #menu ul li a:hover,
+#header #menu ul li a:active {
+    color: red;
+    text-decoration: underline;
+}
+
+#header #name {
+	margin:3px 0;
+	padding:5px 0;
+	border-top:1px solid #ccc3a6;
+	border-bottom:1px solid #ccc3a6;
+}
+#header #name p {
+	text-align:center;
+	font-size:180%;
+	color:#888;
+}
+#header #name p span {
+	/*display:none;*/
+	padding-left:5px;
+	font-style:italic;
+	font-size:50%;
+}
+
+#main {
+    padding:20px 30px; /*width = 660 - 30*2 = 600*/
+    min-height:200px;
+    text-align:left;
+}
+#main .divider {
+	text-align:center;
+	padding:20px 0;
+}
+#main h1 {
+	font-size:100%;
+}
+#main p, #main ul {
+	font-size:90%;
+}
+/* #footer */
+#footer {
+	font-size:90%;
+	color:#888;
+}
+
+
+
+

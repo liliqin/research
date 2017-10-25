@@ -1,0 +1,99 @@
+@charset "utf-8";
+
+#container {
+    width: 700px; /*width=700-30*2=640*/
+}
+#main h1 {
+	font-size:90%;
+}
+#main p.meta {
+	margin:0;
+    padding:0;
+    font-size:75%;
+    font-style:italic;
+}
+#main .text {
+	font-size:90%;
+}
+#main .pic {
+	margin-top:15px;
+	overflow:hidden;
+}
+#main .pic img {
+	padding:2px;
+	border: 4px solid #ddd;
+}
+#main .pic p.meta {
+	text-align:center;
+}
+
+#main #cis .text-1 {
+	float:left;
+	width:310px;
+}
+#main #cis .pic-1 {
+	float:right;
+	width:320px;
+}
+#main #cis .pic-1 img {
+	width:95%;
+}
+#main #cis .pic-2 {
+	width:100%;
+	white-space:nowrap;
+}
+#main #cis .pic-2 img {
+	height:158px;
+}
+#main #SIRT .pic-1 img {
+	width:95%;
+}
+#main #SIRT .left {
+	float:left;
+}
+#main #SIRT .right {
+	float:right;
+}
+#main #SIRT .pic-1 {
+	width:260px;
+	margin-bottom:20px;
+}
+#main #SIRT .pic-1 img {
+	width:95%;
+}
+#main #SIRT .text-1 {
+	width:360px;
+}
+#main #SIRT .pic-2 {
+	width:300px;
+}
+#main #SIRT .pic-2 img {
+	width:95%;
+}
+#main #SIRT .text-2 {
+	width:320px;
+}
+#main #Aurora-A .text {
+	float:right;
+	width:360px;
+}
+#main #Aurora-A .pic {
+	float:left;
+	width:260px;
+}
+#main #Aurora-A .pic img {
+	width:95%;
+	margin-bottom:18px;
+}
+
+#main #cTn-I .pic {
+	width:100%;
+	white-space:nowrap;
+}
+#main #cTn-I .pic img {
+	height:145px;
+}
+
+
+
+
