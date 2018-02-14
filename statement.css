@@ -28,28 +28,34 @@
 }
 
 #main #ucd .pic-1 {
+	float:right;
 	width:260px;
 }
 #main #ucd .pic-1 img {
 	width:95%;
 }
 #main #ucd .text-1 {
-	width:360px;
+	float:left;
+	width:350px;
 }
 #main #ucd .pic-2 {
-	width:300px;
+	float:right;
+	width:260px;
 }
 #main #ucd .pic-2 img {
 	width:95%;
 }
 #main #ucd .text-2 {
-	width:360px;
+	float:left;
+	width:350px;
 }
 
 #main #ucd .text-3 {
-	width:360px;
+	float:right;
+	width:300px;
 }
 #main #ucd .pic-3 {
+	float:left;
 	width:300px;
 }
 #main #ucd .pic-3 img {
