@@ -27,6 +27,35 @@
 	text-align:center;
 }
 
+#main #ucd .pic-1 {
+	width:260px;
+}
+#main #ucd .pic-1 img {
+	width:95%;
+}
+#main #ucd .text-1 {
+	width:360px;
+}
+#main #ucd .pic-2 {
+	width:300px;
+}
+#main #ucd .pic-2 img {
+	width:95%;
+}
+#main #ucd .text-2 {
+	width:360px;
+}
+
+#main #ucd .text-3 {
+	width:360px;
+}
+#main #ucd .pic-3 {
+	width:300px;
+}
+#main #ucd .pic-3 img {
+	width:95%;
+}
+
 #main #cis .text-1 {
 	float:left;
 	width:310px;
