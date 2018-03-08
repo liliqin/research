@@ -21,10 +21,14 @@
 }
 #main .pic img {
 	padding:2px;
-	border: 4px solid #ddd;
+	border:4px solid #ddd;
 }
 #main .pic p.meta {
 	text-align:center;
+}
+
+#vandy .pic-1 img {
+	width:97%;
 }
 
 #main #ucd .pic-1 {
@@ -37,6 +41,9 @@
 #main #ucd .text-1 {
 	float:left;
 	width:350px;
+}
+#ucd .pic-4 img {
+	width: 97%;
 }
 #main #ucd .pic-2 {
 	float:right;
@@ -61,7 +68,9 @@
 #main #ucd .pic-3 img {
 	width:95%;
 }
-
+#ucd .pic-5 img {
+	width: 97%;
+}
 #main #cis .text-1 {
 	float:left;
 	width:310px;
