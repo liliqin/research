@@ -45,25 +45,14 @@
 #ucd .pic-4 img {
 	width: 97%;
 }
-#main #ucd .pic-2 {
-	float:right;
-	width:260px;
-}
-#main #ucd .pic-2 img {
-	width:95%;
-}
-#main #ucd .text-2 {
-	float:left;
-	width:350px;
-}
 
 #main #ucd .text-3 {
 	float:right;
-	width:300px;
+	width:330px;
 }
 #main #ucd .pic-3 {
 	float:left;
-	width:300px;
+	width:270px;
 }
 #main #ucd .pic-3 img {
 	width:95%;
